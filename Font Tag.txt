@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Font Tag</title>
+<h1>Example Of Font Tag</h1>
+<h2>This Is Normal Text Without Any Styling</h2>
+<h3>Text with normal size and default face</h3>
+<h4>Text with Increased size and default face</h4>
+<h5>Text with Changed face</h5>
+<style type="text/css">
+body{background-color:rgb(237,236,187)}
+h1{font-color:black};
+h3{font-color:blue;font-size:12px;font-style:Arial}
+h4{font-color:green;font-type:times new roman;font-size:18}
+h5{font-color:red;font-style:bold;font-family:italic}
+</style>
+</body>
+</html>
